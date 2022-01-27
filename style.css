@@ -35,8 +35,6 @@ body {
 
 .span-two {
   grid-column: span 2;
-  .span-two {
-  grid-column: span 2;
 }
   
 .output {
